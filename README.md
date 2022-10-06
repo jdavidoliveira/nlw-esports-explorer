@@ -8,11 +8,11 @@ Projeto construído do evento Next Level Week da Rocketseat.
 [🔗 Clique aqui para acessar](https://lordaval.github.io/nlw-esports-explorer/)
 
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias utilizadas
 
 - HTML
 - CSS
 - Git e Github
 
 ## ✉️ Contato
-lordaval1117@gmail.com
+E-mail: lordaval1117@gmail.com
